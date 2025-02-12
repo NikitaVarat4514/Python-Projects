@@ -8,9 +8,10 @@ Analyzing academic performance trends, identifying strengths and weaknesses in s
 Examining consumer behavior and sales trends during the Diwali festival, focusing on product categories, demographics, and the impact of marketing strategies.
 
 # Libraries Used:
-Pandas for data manipulation and analysis
-Matplotlib and Seaborn for data visualization
-NumPy for numerical operations
-Scikit-learn (if machine learning models or predictions are used)
-Jupyter Notebook for creating interactive reports
+* Pandas for data manipulation and analysis
+* Matplotlib and Seaborn for data visualization
+* NumPy for numerical operations
+* Scikit-learn (if machine learning models or predictions are used)
+* Jupyter Notebook for creating interactive reports
+
 These projects showcase the application of data analysis and visualization techniques to real-world problems.
